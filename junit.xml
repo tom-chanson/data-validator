@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="17" failures="0" errors="0" time="27.721">
+  <testsuite name="Validator functions" errors="0" failures="0" skipped="0" timestamp="2025-06-11T08:37:42" time="21.884" tests="17">
+    <testcase classname="Validator functions validateDate should return true for valid date strings" name="Validator functions validateDate should return true for valid date strings" time="0.016">
+    </testcase>
+    <testcase classname="Validator functions validateDate should return false for invalid date strings" name="Validator functions validateDate should return false for invalid date strings" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateEmail should return true for valid email addresses" name="Validator functions validateEmail should return true for valid email addresses" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateEmail should return false for invalid email addresses" name="Validator functions validateEmail should return false for invalid email addresses" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateNumber should return true for number values" name="Validator functions validateNumber should return true for number values" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateNumber should return false for non-number values" name="Validator functions validateNumber should return false for non-number values" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateNumberPositive should return true for positive number values" name="Validator functions validateNumberPositive should return true for positive number values" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateNumberPositive should return false for negative numbers" name="Validator functions validateNumberPositive should return false for negative numbers" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateNumberPositive should return false for non-number values" name="Validator functions validateNumberPositive should return false for non-number values" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateString should return true for string values" name="Validator functions validateString should return true for string values" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateString should return false for non-string values" name="Validator functions validateString should return false for non-string values" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateData should validate number type" name="Validator functions validateData should validate number type" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateData should validate string type" name="Validator functions validateData should validate string type" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateData should validate numberPositive type" name="Validator functions validateData should validate numberPositive type" time="0.001">
+    </testcase>
+    <testcase classname="Validator functions validateData should validate date type" name="Validator functions validateData should validate date type" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateData should validate email type" name="Validator functions validateData should validate email type" time="0">
+    </testcase>
+    <testcase classname="Validator functions validateData should throw error for unsupported data type" name="Validator functions validateData should throw error for unsupported data type" time="0.062">
+    </testcase>
+  </testsuite>
+</testsuites>

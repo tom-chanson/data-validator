@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": -5,
+    "dateOfConnection": "2000-01-01"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@not-an-email",
+    "age": 30,
+    "dateOfConnection": "2025-05-15"
+  },
+  {
+    "name": "",
+    "email": "empty.name@example.com",
+    "age": 25,
+    "dateOfConnection": "1998-12-12"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 28,
+    "dateOfConnection": "not-a-date"
+  }
+]
